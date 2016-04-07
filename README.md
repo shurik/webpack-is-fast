@@ -1,1 +1,1 @@
-# webpack-is-fast
+# Webpack is fast

@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParams": true,
+    "destructuring": true,
+    "jsx": true,
+    "modules": true,
+    "objectLiteralComputedProperties": true,
+    "objectLiteralShorthandMethods": true,
+    "templateStrings": true,
+    "experimentalObjectRestSpread": true
+  }
+}
